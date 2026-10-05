@@ -1,0 +1,8 @@
+version=1.0
+message=Works with the current Among Us version.
+
+plugin_url=https://raw.githubusercontent.com/PendragonX74/CommunityAC/main/CommunityAC.dll
+plugin_sha256=077f7d938b2f819b823cb46b709de5fbdd823b2aacc5fbb692665af8baa37d11
+
+bep_x86_url=https://raw.githubusercontent.com/PendragonX74/CommunityAC/main/BepInEx-IL2CPP-win-x86.zip
+bep_x86_sha256=d5954a5993ec39cd1133603d85bff93875d30b6411b712cc13dcf03c8e08a4d3
